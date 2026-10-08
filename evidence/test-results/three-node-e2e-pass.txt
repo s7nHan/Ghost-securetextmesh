@@ -1,0 +1,33 @@
+GHOST SECURE TEXT MESH
+SANITIZED 3-NODE E2E EVIDENCE
+
+Status: SELF-RUN INTERNAL ENGINEERING VALIDATION
+This is a sanitized public extract. It is not a third-party certification.
+
+Test profile
+------------
+Strict production 3-node end-to-end validation
+
+Memory protection policy
+------------------------
+memory_lock = true
+require_memory_protection = true
+
+Observed result
+---------------
+E2E 3-NODE: PASS
+
+Validated behavior represented by this result:
+- multi-fragment delivery;
+- delivery after disconnect / reconnect;
+- authenticated IPC / administrative path behavior.
+
+Process exit code
+-----------------
+0
+
+Disclosure note
+---------------
+Private filesystem paths, usernames, raw configuration, source listings,
+credentials, keys, and other implementation-sensitive details were removed
+from this public extract.

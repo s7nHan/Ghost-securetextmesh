@@ -1,0 +1,48 @@
+GHOST SECURE TEXT MESH
+SANITIZED PUBLIC VALIDATION SUMMARY
+
+Status: SELF-RUN INTERNAL ENGINEERING VALIDATION
+This document is not a third-party certification, formal verification report,
+penetration-test attestation, government accreditation, or customer acceptance test.
+
+Recorded validation snapshot
+----------------------------
+Unit + regression tests:              35 / 35 PASS
+Accelerated executions:               2,360
+Real 3-node chaos / recovery cycles:  5 / 5 PASS
+Source-integrity drift:                0 recorded
+Official release gate:                 PASS
+Production baseline:                   PASS
+Accelerated endurance:                 PASS
+Resource pressure:                     PASS
+Adversarial stress:                    PASS
+Crypto / lifecycle validation:         PASS
+
+Validated engineering pillars
+-----------------------------
+P1 — Attack / Resource Rejection
+     Tamper, replay, bounded allocation, fail-closed controls.
+     Status: PASS
+
+P2 — Cryptography
+     AES-GCM, ML-DSA, ML-KEM, Shamir, PoW, signature verification.
+     Status: PASS
+
+P3 — Multi-node Continuity
+     3-node runtime, disconnect / reconnect, multi-fragment delivery.
+     Status: PASS
+
+P4 — RAM-first Lifecycle
+     Create → send → reconstruct → decrypt → deliver → cleanup.
+     Status: PASS
+
+Validation identities
+---------------------
+Production baseline tag:   v1.0.0-rc.3-production
+Hardened validation tag:   v1.0.0-rc.3-hardened-validation
+
+Disclosure note
+---------------
+This public summary is intentionally sanitized. Raw logs, production source,
+private configuration, keys, secrets, and exploit-relevant implementation details
+are not included in the public showcase repository.
