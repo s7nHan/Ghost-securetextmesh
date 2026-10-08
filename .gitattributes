@@ -1,3 +1,3 @@
 scripts/** linguist-vendored
-examples/rust-showcase/**/*.rs linguist-language=Rust
-examples/rust-showcase/**/*.rs linguist-vendored=false
+examples/rust-showcase/** -linguist-documentation -linguist-vendored
+examples/rust-showcase/**/*.rs linguist-language=Rust linguist-detectable
