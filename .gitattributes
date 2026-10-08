@@ -1,0 +1,3 @@
+scripts/** linguist-vendored
+examples/rust-showcase/**/*.rs linguist-language=Rust
+examples/rust-showcase/**/*.rs linguist-vendored=false
