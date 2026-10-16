@@ -1,3 +1,14 @@
+### Join the GHOST Priority Evaluation List
+
+Interested in early access to GHOST's upcoming technical demonstrations?
+
+Register your interest through our official evaluation page.
+
+**[→ JOIN THE PRIORITY EVALUATION LIST](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+
+Registration is free and non-binding. Demo access is subject to availability and evaluation approval.
+
+
 # GHOST Evaluation Interest Group
 
 This repository includes a **public, GitHub-native interest group** for the planned GHOST Technical Evaluation.
