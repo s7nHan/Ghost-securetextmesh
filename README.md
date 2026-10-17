@@ -14,6 +14,16 @@
 
 ---
 
+### Early Technical Evaluation
+
+GHOST is welcoming interest from cybersecurity professionals, researchers, and organizations exploring resilient and secure communications.
+
+Review the public technical evidence and register your interest in upcoming controlled demonstrations.
+
+**[→ Explore GHOST Evaluation Access](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+
+
+
 ## What GHOST is
 
 GHOST is engineered for environments where a communication system cannot safely assume that connectivity will remain continuous, routes will remain stable, or incoming traffic will always be valid.
