@@ -23,6 +23,17 @@ Review the public technical evidence and register your interest in upcoming cont
 **[→ Explore GHOST Evaluation Access](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
 
 
+### GHOST at a Glance
+
+- **Built with Rust** — Security-focused system development.
+- **P2P / Mesh Networking** — Distributed multi-node communication.
+- **DTN Resilience** — Communication across disrupted networks.
+- **Post-Quantum Security** — ML-DSA digital signatures.
+- **RAM-First Processing** — Memory-focused message lifecycle.
+- **Technical Evaluation** — Public architecture and validation evidence available.
+
+
+
 
 ## What GHOST is
 
