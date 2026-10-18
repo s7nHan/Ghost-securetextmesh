@@ -14,6 +14,22 @@
 
 ---
 
+### Latest Project Updates — October 18, 2026
+
+**GHOST Secure Text Mesh | Pre-Launch Development Update**
+
+New technical evaluation materials are now available.
+
+- **Demo Experience Preview:** Two new visual concepts demonstrate the planned launchpad, license activation, installation, and secure messaging experience.
+- **30-Day Technical Evaluation:** The planned evaluation period has been updated to 30 days, with a USD 2,000 reference price.
+- **Official Announcements:** A new discussion has been published with the latest pre-launch developments.
+- **Technical Evaluation FAQ:** A dedicated Q&A discussion is now available for evaluation and access questions.
+- **Private Evaluation Registration:** Early interest registration remains open, free, private, and non-binding.
+
+**[→ Explore the Latest Announcements & Q&A](https://github.com/s7nHan/Ghost-securetextmesh/discussions)**
+
+**[→ View Demo Previews & Register Interest](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+
 ### Early Technical Evaluation
 
 GHOST is welcoming interest from cybersecurity professionals, researchers, and organizations exploring resilient and secure communications.
