@@ -14,21 +14,33 @@
 
 ---
 
-### Latest Project Updates — October 18, 2026
+### GHOST Project Update — October 20, 2026
 
-**GHOST Secure Text Mesh | Pre-Launch Development Update**
+**Something important is coming. A real, working GHOST Technical Preview will soon be available on GitHub.**
 
-New technical evaluation materials are now available.
+To everyone who has visited, cloned, explored, or shown interest in GHOST Secure Text Mesh — thank you.
 
-- **Demo Experience Preview:** Two new visual concepts demonstrate the planned launchpad, license activation, installation, and secure messaging experience.
-- **30-Day Technical Evaluation:** The planned evaluation period has been updated to 30 days, with a USD 2,000 reference price.
-- **Official Announcements:** A new discussion has been published with the latest pre-launch developments.
-- **Technical Evaluation FAQ:** A dedicated Q&A discussion is now available for evaluation and access questions.
-- **Private Evaluation Registration:** Early interest registration remains open, free, private, and non-binding.
+Until now, we have shared the architecture, technical documentation, and validation evidence behind GHOST.
 
-**[→ Explore the Latest Announcements & Q&A](https://github.com/s7nHan/Ghost-securetextmesh/discussions)**
+**The next step is to let you experience the technology yourself.**
 
-**[→ View Demo Previews & Register Interest](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+An executable, limited technical preview is being prepared, allowing developers, security professionals, and researchers to explore selected GHOST capabilities directly in their own environments.
+
+**No staged demonstrations. No simulated success claims. Real, verifiable technical behavior.**
+
+This is more than a project announcement. It is the beginning of a new chapter in our journey toward resilient, privacy-focused communication.
+
+We are committed to transparency about what the preview demonstrates, what remains private, and how the project progresses.
+
+**Stay connected. Watch the repository. Share GHOST with those who believe in the future of secure communications.**
+
+Further announcements, release information, and technical updates will be published here.
+
+**[→ Follow GHOST Releases](https://github.com/s7nHan/Ghost-securetextmesh/releases)**
+
+**[→ Join the Private Evaluation Interest List](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+
+*GHOST Secure Text Mesh — Built for resilience. Designed for security.*
 
 ### Early Technical Evaluation
 
