@@ -2,10 +2,10 @@
 ## GHOST Demo v1.0 — Real Independent Technical Preview
 
 The `evaluation-demo/` directory contains **actual Rust demo source**, not a
-mock and not the private Production Core. After publication, visitors can use **git clone + Cargo** or **GitHub Releases ZIPs** (Linux/Windows).
+mock and not the private Production Core. Visitors can now use **git clone + Cargo** or **GitHub Releases ZIPs** (Linux/Windows).
 
 - [Source, scope, clone/build/run instructions](evaluation-demo/README.md)
-- [Releases — prepared Linux and Windows downloads](https://github.com/s7nHan/Ghost-securetextmesh/releases)
+- [Download Demo v1.0 — Linux and Windows](https://github.com/s7nHan/Ghost-securetextmesh/releases/tag/demo-v1.0.0)
 - [Limited evaluation source license](evaluation-demo/LICENSE-EVALUATION.md)
 - [Third-party license materials](evaluation-demo/THIRD-PARTY-NOTICES.md)
 
@@ -35,33 +35,36 @@ USD 2,000 private commercial evaluation program.
 
 ---
 
-### GHOST Project Update — October 20, 2026
+### GHOST Demo v1.0 — Officially Released | November 2, 2026
 
-**Something important is coming. A real, working GHOST Technical Preview will soon be available on GitHub.**
+**GHOST Secure Text Mesh Demo v1.0 is now available on GitHub.**
 
-To everyone who has visited, cloned, explored, or shown interest in GHOST Secure Text Mesh — thank you.
+After extensive development and technical validation, GHOST's first public evaluation demo is officially released.
 
-Until now, we have shared the architecture, technical documentation, and validation evidence behind GHOST.
+The repository now includes real, runnable Rust evaluation source code, while the official GitHub Release provides prebuilt packages for Linux and Windows x86-64.
 
-**The next step is to let you experience the technology yourself.**
+This free, limited technical preview allows developers, security researchers, and engineering teams to explore selected GHOST capabilities independently.
 
-An executable, limited technical preview is being prepared, allowing developers, security professionals, and researchers to explore selected GHOST capabilities directly in their own environments.
+**Access GHOST Demo v1.0**
 
-**No staged demonstrations. No simulated success claims. Real, verifiable technical behavior.**
+- [Explore the demo source and instructions](https://github.com/s7nHan/Ghost-securetextmesh/tree/main/evaluation-demo)
+- [Download the Linux and Windows demo packages](https://github.com/s7nHan/Ghost-securetextmesh/releases/tag/demo-v1.0.0)
+- [View the technical documentation](https://github.com/s7nHan/Ghost-securetextmesh)
+- [Join the technical discussion](https://github.com/s7nHan/Ghost-securetextmesh/discussions)
 
-This is more than a project announcement. It is the beginning of a new chapter in our journey toward resilient, privacy-focused communication.
+**What can you evaluate?**
 
-We are committed to transparency about what the preview demonstrates, what remains private, and how the project progresses.
+The preview demonstrates selected post-quantum cryptographic operations, AES-256-GCM, Shamir secret sharing, local three-node QUIC mesh communication, DTN reconnection behavior, signed acknowledgments, and bounded RAM queueing.
 
-**Stay connected. Watch the repository. Share GHOST with those who believe in the future of secure communications.**
+This is an independent, non-production technical demonstration. It is not the private GHOST Production Core, a full messaging application, or an independent security certification.
 
-Further announcements, release information, and technical updates will be published here.
-
-**[→ Follow GHOST Releases](https://github.com/s7nHan/Ghost-securetextmesh/releases)**
-
-**[→ Join the Private Evaluation Interest List](https://github.com/s7nHan/Ghost-securetextmesh/discussions/1)**
+**Explore the source. Run the demo. Examine the results.**
 
 *GHOST Secure Text Mesh — Built for resilience. Designed for security.*
+
+---
+
+
 
 ### Early Technical Evaluation
 
@@ -219,24 +222,19 @@ Public documentation describes system-level behavior only. Production source cod
 
 ---
 
-## Public pre-launch and first demo timing
+## Public Demo v1.0 — Available Now
 
-![GHOST pre-launch and first Technical Evaluation flow](assets/prelaunch-flow.png)
+**The free, limited technical demo was released on November 2, 2026.**
 
-GHOST is being opened publicly first as a **technical showcase and demand-validation stage**. The initial public period is intended to measure real technical and commercial interest before the first controlled demo / Technical Evaluation access window opens.
+- [Browse evaluation source and run instructions](evaluation-demo/README.md)
+- [Download Linux and Windows packages](https://github.com/s7nHan/Ghost-securetextmesh/releases/tag/demo-v1.0.0)
+- [Review the evaluation license](evaluation-demo/LICENSE-EVALUATION.md)
 
-The planned sequence is:
-
-1. **Public showcase opens** — architecture, sanitized validation evidence, public Rust example, Issues and Discussions become visible.
-2. **Real engagement is measured** — stars provide a visibility signal; Issues / Discussions show technical engagement; the **Evaluation Interest** category records the strongest repository-native commercial intent signal.
-3. **Initial 1–2 week signal window** — qualified interest is reviewed rather than using a fixed star count as an automatic trigger.
-4. **First controlled demo / Technical Evaluation access** — if sufficient genuine interest is confirmed and the release gate remains ready, the first access window will be announced and opened.
-
-The exact opening date is therefore **interest-dependent rather than pre-committed to a calendar day**. A large star count alone does not guarantee release; qualified technical and evaluation interest matters more.
-
-> The planned **USD 2,000 reference price applies to the limited Technical Evaluation access**. Joining the Evaluation Interest Group is non-binding and requires no payment now.
+The public demo is separate from any future controlled private evaluation. The private Production Core remains undisclosed.
 
 ---
+
+
 
 ## Evaluation Interest Group
 
@@ -320,7 +318,7 @@ GHOST may be relevant to professionals and organizations working in:
 
 ## Project status
 
-**Technical showcase ready · Production implementation private · Public evaluation demo / demand validation · Evaluation Interest Group enabled through repository Discussions**
+**Technical showcase ready · Production implementation private · Demo v1.0 publicly released · Evaluation Interest Group enabled through repository Discussions**
 
 © 2026 GHOST Secure Text Mesh. All rights reserved unless otherwise stated.
 
