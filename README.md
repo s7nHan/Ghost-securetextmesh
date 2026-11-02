@@ -1,3 +1,24 @@
+<!-- GHOST-DEMO-V1-PUBLIC-PREVIEW -->
+## GHOST Demo v1.0 — Real Independent Technical Preview
+
+The `evaluation-demo/` directory contains **actual Rust demo source**, not a
+mock and not the private Production Core. After publication, visitors can use **git clone + Cargo** or **GitHub Releases ZIPs** (Linux/Windows).
+
+- [Source, scope, clone/build/run instructions](evaluation-demo/README.md)
+- [Releases — prepared Linux and Windows downloads](https://github.com/s7nHan/Ghost-securetextmesh/releases)
+- [Limited evaluation source license](evaluation-demo/LICENSE-EVALUATION.md)
+- [Third-party license materials](evaluation-demo/THIRD-PARTY-NOTICES.md)
+
+The limited preview demonstrates ML-KEM, ML-DSA, AES-256-GCM, Shamir, local
+QUIC mesh, DTN disconnect/reconnect, signed acknowledgment and bounded RAM
+queueing. The basic demo uses three nodes in one process; the isolated runner
+also exercises **three OS processes**. It is a scripted technical evaluation,
+not an interactive chat product, a multi-host field deployment or a security
+certification. This PUBLIC preview is distinct from the separately discussed
+USD 2,000 private commercial evaluation program.
+
+---
+
 # GHOST Secure Text Mesh
 
 ![GHOST Secure Text Mesh showcase artwork](assets/ghost-showcase.png)
@@ -299,6 +320,10 @@ GHOST may be relevant to professionals and organizations working in:
 
 ## Project status
 
-**Technical showcase ready · Production implementation private · Public pre-launch / demand validation · Evaluation Interest Group enabled through repository Discussions**
+**Technical showcase ready · Production implementation private · Public evaluation demo / demand validation · Evaluation Interest Group enabled through repository Discussions**
 
 © 2026 GHOST Secure Text Mesh. All rights reserved unless otherwise stated.
+
+## Commercial rights and evaluation restrictions
+
+The public demo is licensed for technical evaluation only. Downloading, testing, cloning or running it grants no ownership, commercial use, redistribution, integration, resale or Production Core rights in GHOST-owned materials. See `evaluation-demo/LICENSE-EVALUATION.md`. Third-party components retain their own license terms.

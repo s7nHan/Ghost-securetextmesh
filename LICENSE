@@ -5,6 +5,9 @@ This public repository contains documentation, diagrams, screenshots, demonstrat
 
 Unless a file explicitly states otherwise, no license is granted to copy, modify, distribute, sublicense, sell, reverse engineer, or create derivative commercial products from these materials.
 
+EXCEPTION — INDEPENDENT PUBLIC EVALUATION DEMO
+The independent demonstration sources and associated materials under evaluation-demo/ are governed by evaluation-demo/LICENSE-EVALUATION.md. That limited permission applies only to the independent evaluation demo, not to the private Production Core or other showcase materials.
+
 The production GHOST Secure Text Mesh source code is not distributed under this repository.
 
-Any controlled technical evaluation, source-code access, commercial license, integration right, or technology-transfer right requires a separate written agreement.
+The independent public demo may be evaluated only within the scope of evaluation-demo/LICENSE-EVALUATION.md. Access to non-public GHOST source code or the Production Core, paid/private evaluations, commercial licensing, integration rights, or technology transfer requires a separate written agreement with the GHOST rights holder.

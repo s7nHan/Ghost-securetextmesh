@@ -1,0 +1,26 @@
+[package]
+name = "ghost-public-runtime"
+version = "1.0.0"
+edition = "2021"
+publish = false
+default-run = "ghost_eval_node"
+
+[[bin]]
+name = "ghost_eval_node"
+path = "src/main.rs"
+
+[dependencies]
+ghost-public-crypto = { path = "../public-crypto" }
+anyhow = "1"
+futures = "0.3"
+libp2p = { version = "0.57", default-features = false, features = ["macros", "tokio", "quic", "gossipsub"] }
+tokio = { version = "1.47", features = ["rt-multi-thread", "macros", "time", "signal"] }
+
+sha2 = "0.10"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+base64 = "0.22"
+zeroize = "1"
+
+[workspace]
